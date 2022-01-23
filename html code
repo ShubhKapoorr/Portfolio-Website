@@ -1,1 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content=
+		"width=device-width, initial-scale=1.0">
+	<title>Shubh Kapoor Portfolio</title>
+</head>
+
+<body>
+	<table id="header" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor= "black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td>
+							
+
+						</td>
+
+						<td>
+							<font face="Comic sans MS" size="6" color=green>
+								<b>PORTFOLIO</b>
+							</font>
+						</td>
+
+						<td width="15%">
+
+						<td>
+							<a href="#about" style="text-decoration:none">
+								<font face="Verdana" size="5" color=cyan>
+									About Me
+								</font>
+							</a>
+						</td>
+
+						<td>
+							<a href="#achievements" style="text-decoration:none">
+								<font face="Verdana" size="5" color=cyan>
+									Hobbies
+								</font>
+							</a>
+						</td>
+
+						<td>
+							<a href="#contact" style="text-decoration:none">
+								<font face="Verdana" size="5" color=cyan>
+									Contact
+								</font>
+							</a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table id="home" border="1" width="100%"
+		cellpadding="20" cellspacing="0" bgcolor="green">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="90%" align="center">
+					<tr>
+						<td align="center" valign="middle">
+                            <marquee behavior="" direction="right to left">
+							<h3>
+								<font face="Times New Roman"
+									size="8" color= "yellow">
+									Welcome to my Portfolio....
+								</font>
+							</h3>
+                        </marquee>
+
+							<h2>
+								<font face="Verdana" size="6"
+									color="#4CAF50">
+								</font>
+							</h2>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+	<table id="about" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center"
+							valign="middle" colspan="2">
+							<font face="Verdana" size="7"
+								color="cyan">
+								About Me
+							</font>
+							<hr color="cyan" width="90">
+						</td>
+					</tr>
+
+					<tr>
+						<td width="40%">
+							<img src="IMG-7874.JPG" width="300" height="500">
+						</td>
+
+						<td width="60%">
+							<font face="Verdana" size="4"
+								color="yellow">
+                                Hello everyone..<br>
+								I am Shubh Kapoor of Manipal University Jaipur.I am
+                                studying btech information technology (2nd year).
+                                I love to code amd solve programming problems
+								in most efficient ways. Apart from
+								coding, I have a keen interest in
+                                cyber security.
+								<hr color="black">
+
+								I do my coding mainly in C-Language
+								and JAVA.Data Structure
+								& Algorithm are my stronger section.
+								Besides these I know mobile app Development,
+								and database as well.
+								<hr color="black">
+
+								This website is basically one of my first ever 
+								Web Development project which is
+								built using HTML only..
+
+								Thanks again for reading this,
+								
+								<hr color="black">
+								Cheers
+								<br>
+							</font>
+						</td>
+					</tr>
+				</table>
+				<hr color="black">
+				<hr color="black">
+				<hr color="black">
+			</td>
+		</tr>
+	</table>
+	<table id="achievements" border="0" width="100%"
+		cellpadding="0" cellspacing="0" bgcolor="black">
+		<tr>
+			<td>
+				<table border="0" cellpadding="15"
+					cellspacing="0" width="80%" align="center">
+					<tr>
+						<td height="180" align="center" valign="middle">
+							<font face="Verdana" size="7" color="cyan">
+								Hobbies
+								<hr color="cyan" width="100">
+							</font>
+						</td>
+					</tr>
+
+					<tr>
+						<td>
+							<font face="Verdana" size="4" color="white">
+								<ul>
+									
+                                    <h3>Beside of coding...<br></h3>
+                                    <li>
+										<b>I have played chess at national level and 
+                                            I have internationl rating in rapid style.</b>
+										
+									</li>
+
+									<li>
+										<hr color="black">
+										<hr color="black">
+										<hr color="black">
+										<b>I used to play taekwondo and I have won bronze medal at state level championship.</b>
+									</li>
+
+									<li>
+										<hr color="black">
+										<hr color="black">
+										<hr color="black">
+										<b>I also like playing badminton.</b>
+										<ul>
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+											<hr color="black">
+										</ul>
+									</li>
+
+								</ul>
+
+							</font>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+    
+    <table id="contact" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="green">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="80%" align="center">
+                    <tr>
+                        <td height="180" align="center"
+                            valign="middle" colspan="2">
+                            <font face="Verdana" size="7"
+                                color="yellow">
+                                Contact
+                            </font>
+                            <hr color="yellow" width="90">
+                        </td>
+                    </tr>
+    <table id="footer" border="0" width="100%"
+        cellpadding="0" cellspacing="0" bgcolor="red">
+        <tr>
+            <td>
+                <table border="0" cellpadding="15"
+                    cellspacing="0" width="90%" align="center">
+                    <tr>
+                        <td width="13%" valign="top">
+                            <b>LinkedIn</b>
+                            <a href="#" style="text-decoration:none">
+                                ➲ Link: https://www.linkedin.com/in/shubh-kapoor-23a30821b/
+                            </a>
+                        </td>
+                        <td>
+                            |
+                        </td>
+ 
+                        <td width="13%" valign="top">
+                            <b>Twitter</b>
+                            <a href="#" style="text-decoration:none">
+                                ➲ @ShubhKapoor7
+                            </a>
+                        </td>
+ 
+                        <td>
+                            |
+                        </td>
+ 
+                        <td width="13%" valign="top">
+                            <b>Instagram</b>
+                            <a href="#" style="text-decoration:none">
+                                ➲ @_shubhkapoorr_
+                            </a>
+                        </td>
+ 
+                        <td>
+                            |
+                        </td>
+ 
+                        <td width="13%" valign="top">
+                            <b>Email</b>
+                            <a href="#" style="text-decoration:none">
+                                ➲ atsskapoor@gmail.com
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
 
